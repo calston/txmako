@@ -10,7 +10,7 @@ setup(
     url='http://github.com/calston/txmako',
     license='MIT',
     description="A network mutex service for distributed environments.",
-    long_description=open('pypireadme.rst', 'r').read(),
+    long_description=open('README.rst', 'r').read(),
     author='Colin Alston',
     author_email='colin.alston@gmail.com',
     packages=[
